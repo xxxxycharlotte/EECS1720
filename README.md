@@ -1,6 +1,6 @@
 # EECS1720
 ## Project Title
-lab exercise1 in EECS1720
+lab exercises and projects in EECS1720
 ## Getting Started
 ### Prerequisites
 
