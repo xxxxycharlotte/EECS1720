@@ -26,3 +26,4 @@ function changeBG(color) {
 function storeColor(bgColor) {
     chrome.storage.sync.set({currentColor: bgColor});
 }
+
