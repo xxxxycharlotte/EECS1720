@@ -21,6 +21,7 @@ tutorial from: https://developer.chrome.com/docs/extensions/mv3/content_scripts/
 1. HTML5
 2. CSS
 3. Javascript
+4. Python
 
 
 ### Library
